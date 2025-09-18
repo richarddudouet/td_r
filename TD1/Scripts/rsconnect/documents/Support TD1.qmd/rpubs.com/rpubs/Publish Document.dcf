@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1345161/e32b0607dc55471697a266eb5dbaf717
+bundleId: https://api.rpubs.com/api/v1/document/1345161/e32b0607dc55471697a266eb5dbaf717
+url: http://rpubs.com/richard_dudouet/1345161
+version: 1
