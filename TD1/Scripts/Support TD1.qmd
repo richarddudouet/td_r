@@ -300,7 +300,9 @@ library(ggplot2)
 
 ### III. Importer des bases de données
 
-Pour cela vous pouvez cliquer sur *Import Dataset* dans la fenêtre en haut à droite: Environment.\
+Les bases de données se trouve à cette adresse github.com.richardudouet/tdr/TD1/Data
+
+Pour importer, vous pouvez cliquer sur *Import Dataset* dans la fenêtre en haut à droite: Environment.\
 Mais pour que cela fonctionne, il faut savoir sous quel extension est votre base.
 
 *.csv* -\> from text (readr) (coma seperated values), s'ouvre avec excel attention.\
