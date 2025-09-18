@@ -6,7 +6,6 @@ format:
     toc-location: left   # ou right
     toc-depth: 5
 editor: visual
----git
 ---
 
 ```{=html}
@@ -372,7 +371,7 @@ class(bonjour)
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(tidyverse)
-load("C:/Users/richa/Desktop/Travail/4. Enseignement/td_r/TD1/Data/envtd1.RData")
+load("C:/Users/richa/Desktop/Travail/4. Enseignement/td_r/TD1/z.Enseignant/envtd1.RData")
 ```
 
 ###### *Vecteurs*
